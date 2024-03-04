@@ -2,7 +2,7 @@ const config = {
     db: {
         host: "127.0.0.1", 
         user: "root",
-        password: "bad", 
+        password: "Mineboy57", 
         database: "botscryout",
         connectTimeout: 60000,
         waitForConnections: true,
